@@ -1,2 +1,2 @@
 # bbddthewalkingdog
-Respositorio de la bases de datos 
+Respositorio de bases de datos 
